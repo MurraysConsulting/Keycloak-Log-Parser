@@ -29,3 +29,10 @@ Set the output to go into a list with a dictionary wrapper aound each entry.
 Note that you may have to adjust your requests based on number of entries as 10k is a hard limit for AWS CONSOLE CloudWatch entries.
 
 Set the clientID to the relevant items, can parse your Keycloak config to see what clientIDs are available to parse.
+
+
+Working with the team to add some more depth to the above queries, as well as I will clean up my jupyter notebook code a bit to make it more readable as I didn't know how github would handle it.
+
+If there are questions or comments please let me know at: john@murrayscg.com
+
+Thanks.
